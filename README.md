@@ -20,7 +20,7 @@ The build script must be ran on linux. If you don't have linux, a VM can be used
 
 First, grab the script itself.
 ```
-git clone https://github.com/MercuryWorkshop/RecoMod
+git clone https://github.com/notnrbtw/RecoMod
 cd RecoMod
 chmod +x recomod.sh
 ```
